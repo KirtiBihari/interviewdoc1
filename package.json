@@ -27,7 +27,7 @@
     "eslint": "1.7.x",
     "eslint-plugin-babel": "2.x.x",
     "its-set": "^1.1.5",
-    "mocha": "2.x.x",
+    "mocha": "10.x.x",
     "nodemon": "1.7.x"
   },
   "author": "Finn Fitzsimons <hello@finn.works>",
